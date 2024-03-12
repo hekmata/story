@@ -1,4 +1,6 @@
 THe next thing I gona to learn is git. It will be intresting.
 After changing in the file, will add the .txt file with git and chack the 
 status with command " git status", and then give message that till now 
-the change is completed with command line " git commit -m " complete chapter1.txt"
+the change is completed with command line " git commit -m " complete chapter1.txt". befor that you have to init git with command "git init".
+you can check the status of git with " git status".
+you can see what commit you have made by spealy write code " git log" command.
