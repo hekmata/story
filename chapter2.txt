@@ -1,1 +1,1 @@
-This is the second chapter. fallow the path.
+This is the second chapter. fallow the path. using command git add . to add changes all under this directory.

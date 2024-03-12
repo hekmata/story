@@ -1,1 +1,1 @@
-The chapter3 will be amazing!
+The chapter3 will be amazing! will find out the status of git by git status.
