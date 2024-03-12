@@ -1,4 +1,5 @@
 THe next thing I gona to learn is git. It will be intresting.
+start wiht git init to start working with git.
 After changing in the file, will add the .txt file with git and chack the 
 status with command " git status", and then give message that till now 
 the change is completed with command line " git commit -m " complete chapter1.txt". befor that you have to init git with command "git init".
